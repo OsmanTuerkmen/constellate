@@ -158,4 +158,4 @@ One cluster, not 10,000 diseases. OMIM only indirectly. Patient-organisation cov
 
 ## Team
 
-Hanno Kügler, Osman and Recep. Contact details are deliberately not part of the repository.
+Osman, Recep and Hanno. Contact details are deliberately not part of the repository.
